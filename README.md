@@ -27,7 +27,7 @@ HANS-MD is an advanced WhatsApp bot built to make your WhatsApp experience more 
 [![Create Account on Heroku](https://img.shields.io/badge/Create%20Account%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 
 ### Deploy to Heroku  
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/Mrhannstz/HANS-MD)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Mrhannstz/HANS-MD)
 
 ---
 
@@ -44,7 +44,7 @@ HANS-MD is an advanced WhatsApp bot built to make your WhatsApp experience more 
 
 4. **Deploy to Heroku**  
    Use the Heroku deployment template below to deploy HANS-MD:  
-   [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/Mrhannstz/HANS-MD)
+   [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Mrhannstz/HANS-MD)
 
 ---
 
@@ -75,4 +75,3 @@ Feel free to contribute to the project by forking the repository and submitting 
 ### License  
 
 This project is licensed under the MIT License.
- License.
