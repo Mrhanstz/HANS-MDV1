@@ -15,7 +15,7 @@ HANS-MD is an advanced WhatsApp bot built to make your WhatsApp experience more 
 
 ---
 
-## 🔗 Important Links
+## 🔗 Important Links  
 
 ### Star and Fork This Repo  
 [![Star and Fork This Repo](https://img.shields.io/badge/Star%20%26%20Fork%20This%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrhanstz/HANS-MD)
@@ -29,21 +29,9 @@ HANS-MD is an advanced WhatsApp bot built to make your WhatsApp experience more 
 ### Deploy to Heroku  
 [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/Mrhannstz/HANS-MD)
 
-### Follow My WhatsApp Channel  
-[![Follow My WhatsApp Channel](https://img.shields.io/badge/Follow%20My%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31)
-
-### Contact Me On WhatsApp  
-[![Contact Me On WhatsApp](https://img.shields.io/badge/Contact%20Me%20On%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255756530143)
-
-### Subscribe to My Channel on YouTube  
-[![Subscribe to My Channel on YouTube](https://img.shields.io/badge/Subscribe%20to%20My%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HANS-TECH)
-
-### Follow My GitHub  
-[![Follow My GitHub](https://img.shields.io/badge/Follow%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrhanstz)
-
 ---
 
-## 🚀 Deployment Instructions
+## 🚀 Deployment Instructions  
 
 1. **Star and Fork the Repository**  
    [![Star and Fork This Repo](https://img.shields.io/badge/Star%20%26%20Fork%20This%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrhanstz/HANS-MD)
@@ -60,23 +48,31 @@ HANS-MD is an advanced WhatsApp bot built to make your WhatsApp experience more 
 
 ---
 
-## 📞 Support
+## 📞 Support  
 
-For any issues, feel free to contact me:  
+For any issues or to stay updated, use the options below:  
 
 [![Follow My WhatsApp Channel](https://img.shields.io/badge/Follow%20My%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31)  
+*Follow My WhatsApp Channel*  
+
 [![Contact Me On WhatsApp](https://img.shields.io/badge/Contact%20Me%20On%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255756530143)  
+*Contact Me On WhatsApp*  
+
 [![Subscribe to My Channel on YouTube](https://img.shields.io/badge/Subscribe%20to%20My%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HANS-TECH)  
-[![Follow My GitHub](https://img.shields.io/badge/Follow%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrhanstz)
+*Subscribe to My Channel on YouTube*  
+
+[![Follow My GitHub](https://img.shields.io/badge/Follow%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrhanstz)  
+*Follow My GitHub*  
 
 ---
 
-## ⭐ Contribution
+## ⭐ Contribution  
 
 Feel free to contribute to the project by forking the repository and submitting a pull request. Don't forget to star the repo if you find it useful!
 
 ---
 
-### License
+### License  
 
 This project is licensed under the MIT License.
+ License.
