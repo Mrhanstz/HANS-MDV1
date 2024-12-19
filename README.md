@@ -29,24 +29,6 @@ HANS-MD is an advanced WhatsApp bot built to make your WhatsApp experience more 
 ### Deploy to Heroku  
 [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Mrhannstz/HANS-MD)
 
----
-
-## 🚀 Deployment Instructions  
-
-1. **Star and Fork the Repository**  
-   [![Star and Fork This Repo](https://img.shields.io/badge/Star%20%26%20Fork%20This%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrhanstz/HANS-MD)
-
-2. **Generate Session ID**  
-   [![Get Session ID Here](https://img.shields.io/badge/Get%20Session%20ID-FF4500?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://hans-md-session-id-sowl.onrender.com/)
-
-3. **Create Account on Heroku**  
-   [![Create Account on Heroku](https://img.shields.io/badge/Create%20Account%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-
-4. **Deploy to Heroku**  
-   Use the Heroku deployment template below to deploy HANS-MD:  
-   [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Mrhannstz/HANS-MD)
-
----
 
 ## 📞 Support  
 
